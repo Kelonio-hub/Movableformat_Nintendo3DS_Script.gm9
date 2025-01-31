@@ -5,6 +5,7 @@ Console formatting Nintendo 3DS/2DS method using Godmode9.
 - Remember to re-enable CMACs after the script.
 - You can view and edit from Visual Studio Code.
 - #TeAmoKelonio
+- Video Guide: https://www.youtube.com/watch?v=Xe6qoIRUJao&t=2s
   
 _________
 
@@ -16,3 +17,4 @@ Método de formateo de consola Nintendo 3DS/2DS mediante Godmode9.
 - Para consola NO hackeadas, se deberá acceder al Godmode9 mediante NTrBoot [R4 Flasheada]
 - Puede visualizar y editar desde Visual Studio Code.
 - #TeAmoKelonio
+- Vídeo Guía: https://www.youtube.com/watch?v=Xe6qoIRUJao&t=2s
