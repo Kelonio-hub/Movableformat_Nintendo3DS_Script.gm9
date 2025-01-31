@@ -1,5 +1,5 @@
 # Movableformat.gm9
-Console formatting method using Godmode9.
+Console formatting Nintendo 3DS/2DS method using Godmode9.
 - Revision 2025
 - It can be formatted by restoring the original console movable.sed file or the provided donor movable.sed.
 - Remember to re-enable CMACs after the script.
@@ -9,7 +9,7 @@ Console formatting method using Godmode9.
 _________
 
 # Movableformat.gm9
-Método de formateo de consola mediante Godmode9. 
+Método de formateo de consola Nintendo 3DS/2DS mediante Godmode9. 
 - Revisión 2025
 - Se puede formatear restaurando el archivo modable.sed original de la consola o el movable.sed donante proporcionado.
 - Recuerde reactivar el CMACs tras el script. 
